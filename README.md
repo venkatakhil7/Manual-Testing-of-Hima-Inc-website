@@ -34,6 +34,36 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Tested ' How we work' menu item :
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/b8def11d-e871-4f5b-8cdd-0d7d6d1511b4" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tested ' About ' menu item :
+
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/0ccdb358-1091-40c7-9b8c-55dd06181761" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tested ' Contact' menu item :
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/14b71fe0-dd1e-490b-aae0-27248fad57af" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tested qualification form by entering sample data
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fdc11a34-a45e-4271-88ee-2468a365cd34" />
+
+<img width="960" height="539" alt="Image" src="https://github.com/user-attachments/assets/5a58f340-53d9-44ef-943a-24aac489216b" />
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
