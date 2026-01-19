@@ -53,7 +53,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Tested qualification form by entering sample data
+10. Tested 'Get Matched' button or qualification form by entering sample data
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fdc11a34-a45e-4271-88ee-2468a365cd34" />
 
@@ -61,7 +61,14 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+11. Tested 'Book a Consultation' button and found 404 error
+    
+<img width="960" height="511" alt="Image" src="https://github.com/user-attachments/assets/939a6aff-2a07-4de9-ab51-c0e555c3215c" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
 
 
 
